@@ -1,0 +1,4 @@
+keypair.json
+*.token
+*.log
+__pycache__/
